@@ -23,8 +23,6 @@ Security Research & Development
 
 </div>
 
----
-
 <details>
 <summary><samp><b>More Info</b></samp></summary>
 
@@ -39,7 +37,7 @@ Bilingual cybersecurity platform with CTF writeups and technical blog
 
 `Astro` `TypeScript` `TailwindCSS`
 
----
+
 
 **[WirelessPen Framework](https://github.com/Crypt0xDev/WirelessPen)**
 
@@ -48,6 +46,26 @@ Professional WiFi penetration testing framework for ethical hackers
 [![v2.2.0](https://img.shields.io/badge/v2.2.0-4CAF50?style=flat)](https://github.com/Crypt0xDev/WirelessPen) [![Docs](https://img.shields.io/badge/Docs-blue?style=flat)](https://github.com/Crypt0xDev/WirelessPen/blob/main/README.md)
 
 `Python` `Shell`
+
+
+
+**[Algebra Lineal Solver](https://github.com/Crypt0xDev/algebra-lineal-solver)**
+
+Professional academic system for automatic Linear Algebra exercises solving with 2D/3D graphics and reports
+
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/Crypt0xDev/algebra-lineal-solver)
+
+`Python` `LaTeX`
+
+
+
+**[PPE Helmet Detection Web](https://github.com/Crypt0xDev/PPE-Helmet-Detection-Web)**
+
+Web application for Personal Protection Equipment (helmet) detection system
+
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/Crypt0xDev/PPE-Helmet-Detection-Web)
+
+`HTML` `JavaScript`
 
 </details>
 
