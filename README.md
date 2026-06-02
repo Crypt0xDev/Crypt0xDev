@@ -27,6 +27,14 @@ Systems Engineering Student · Security Research & Development
 
 ### 👾 About Me
 
+<div align="center">
+
+![currently](https://img.shields.io/badge/dynamic/json?url=https://api.lanyard.rest/v1/users/1412088982409449614&query=$.data.discord_status&label=currently&color=brightgreen&style=flat-square)
+![playing](https://img.shields.io/badge/dynamic/json?url=https://api.lanyard.rest/v1/users/1412088982409449614&query=$.data.activities[0].name&label=playing&color=5865F2&style=flat-square&default=nothing+rn)
+![listening](https://img.shields.io/badge/dynamic/json?url=https://api.lanyard.rest/v1/users/1412088982409449614&query=$.data.spotify.song&label=listening+to&color=1DB954&logo=spotify&logoColor=white&style=flat-square&default=nothing+rn)
+
+</div>
+
 ```python
 class Crypt0xDev:
     name       = "Alexis Noe Gonzalez Perez"
@@ -43,28 +51,7 @@ class Crypt0xDev:
 
 <div align="center">
 
-**Languages**
-
-[![Skills](https://skillicons.dev/icons?i=python,ts,js,bash,cpp,c,powershell&theme=dark)](https://skillicons.dev)
-
-**Security Tools**
-
-[![Skills](https://skillicons.dev/icons?i=kali,linux,vim&theme=dark)](https://skillicons.dev)
-
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white)
-![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-2C5BB4?style=for-the-badge&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-
-**Frameworks & Tools**
-
-[![Skills](https://skillicons.dev/icons?i=astro,react,fastapi,flask,tailwind,nodejs,docker,git,vscode&theme=dark)](https://skillicons.dev)
-
-**Databases**
-
-[![Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,ts,js,bash,html,astro,nextjs,react,fastapi,tailwind,docker,git,vscode,kali,linux&theme=dark)](https://skillicons.dev)
 
 </div>
 
