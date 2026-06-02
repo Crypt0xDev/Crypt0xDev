@@ -23,17 +23,7 @@ Systems Engineering Student · Security Research & Development
 
 </div>
 
----
-
 ### 👾 About Me
-
-<div align="center">
-
-![currently](https://img.shields.io/badge/dynamic/json?url=https://api.lanyard.rest/v1/users/1412088982409449614&query=$.data.discord_status&label=currently&color=brightgreen&style=flat-square)
-![playing](https://img.shields.io/badge/dynamic/json?url=https://api.lanyard.rest/v1/users/1412088982409449614&query=$.data.activities[0].name&label=playing&color=5865F2&style=flat-square&default=nothing+rn)
-![listening](https://img.shields.io/badge/dynamic/json?url=https://api.lanyard.rest/v1/users/1412088982409449614&query=$.data.spotify.song&label=listening+to&color=1DB954&logo=spotify&logoColor=white&style=flat-square&default=nothing+rn)
-
-</div>
 
 ```python
 class Crypt0xDev:
@@ -45,8 +35,6 @@ class Crypt0xDev:
     motto      = "Security is not a product, but a process."
 ```
 
----
-
 ### 🛠️ Tech Stack
 
 <div align="center">
@@ -54,9 +42,6 @@ class Crypt0xDev:
 [![Skills](https://skillicons.dev/icons?i=python,ts,js,bash,html,astro,nextjs,react,fastapi,tailwind,docker,git,vscode,kali,linux&theme=dark)](https://skillicons.dev)
 
 </div>
-
-
----
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Crypt0xDev/Crypt0xDev/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
