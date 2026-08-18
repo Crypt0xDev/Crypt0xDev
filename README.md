@@ -6,7 +6,7 @@
 <br>
 Systems Engineering Student · Security Research & Development
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=00F5FF&center=true&width=520&lines=Penetration+Testing+%7C+Security+Research;Python+Developer+%7C+Linux+Enthusiast;Building+Secure+Systems+%26+Tools;OSCP+Journey+%7C+Ethical+Hacker" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=00F5FF&center=true&width=520&lines=Penetration+Testing+%7C+Security+Research;Python+Developer+%7C+Linux+Enthusiast;Building+Secure+Systems+%26+Tools;Backend+%26+SaaS+Developer" alt="Typing SVG" />
 
 <br>
 
@@ -19,12 +19,18 @@ Systems Engineering Student · Security Research & Development
 
 <br>
 
-[![Skills](https://skillicons.dev/icons?i=python,ts,js,html,astro,nextjs,react,fastapi,tailwind,docker,kali,linux&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,fastapi,postgres,ts,react,nextjs,astro,laravel,tailwind,cpp,arduino,flutter,linux,kali,docker,git&theme=dark&perline=8)](https://skillicons.dev)
 
 <br>
 
 <img src="https://raw.githubusercontent.com/Crypt0xDev/Crypt0xDev/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
+</div>
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00F5FF&height=80&section=footer" />
+
+<sub>Building secure systems. Breaking assumptions. Learning continuously.</sub>
 
 </div>
